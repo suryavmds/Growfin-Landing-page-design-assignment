@@ -3,6 +3,6 @@
 
 Author : Surya Prakash
 
-_Responsive, Animated, JQuery, SCSS
+_Responsive, Animated, JQuery, SCSS_
 
-![UI](https://github.com/suryavmds/Landing-page-design--1---Pure-CSS/blob/master/assets/img/Homepage.png?raw=true)
+![UI](https://github.com/suryavmds/Growfin-Landing-page-design-assignment/blob/master/assets/img/Landing-page.jpg?raw=true)
